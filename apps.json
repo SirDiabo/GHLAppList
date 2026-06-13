@@ -1,5 +1,124 @@
 {
+  "Xbox Recompilations": [
+    {
+      "name": "WWE SmackDown vs Raw 2007",
+      "repository": "HollywoodAkeem/SVR07-Recomp",
+      "folderName": "SVR07-Recomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/7bcab4942f4f7e074eb4f7b4ecdf4f61.png",
+      "category": "Recompilations"
+    },
+    {
+      "name": "Sonic Unleashed Recompiled",
+      "repository": "hedge-dev/UnleashedRecomp",
+      "folderName": "Sonic Unleashed Recompiled",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/63a99723ebb3af94d52b474c3b21dbe1/24/512x512.png",
+      "category": "Recompilations"
+    },
+    {
+      "name": "Banjo-Kazooie: Nuts \u0026 Bolts",
+      "repository": "masterspike52/reNut",
+      "folderName": "masterspike52.re-nut",
+      "appIconUrl": "https://raw.githubusercontent.com/masterspike52/reNut/refs/heads/main/icon/app.ico",
+      "category": "Recompilations"
+    },
+    {
+      "name": "Viva Pinata Trouble in Paradise",
+      "repository": "SolarCookies/TiP-Recomp",
+      "folderName": "SolarCookies.TiP-Recomp",
+      "appIconUrl": "https://raw.githubusercontent.com/SolarCookies/TiP-Recomp/refs/heads/main/icon/app.ico",
+      "category": "Recompilations"
+    },
+    {
+      "name": "Dragon Ball Z Budokai",
+      "repository": "WistfulHopes/DBZ1",
+      "folderName": "DBZ1Recompiled",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/61501c1f651da2774f8bb6bbec365d84.png",
+      "category": "Recompilations"
+    }
+  ],
+  "PlayStation Recompilations": [
+    {
+      "name": "Silent Hill",
+      "repository": "SlickAmogus/silent-hill-decomp",
+      "folderName": "silent-hill-decomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/8847f8243bea41c5145872e904631d71.png",
+      "category": "Recompilations"
+    },
+    {
+      "name": "Skate 3",
+      "repository": "portingpete/skate3-recomp",
+      "folderName": "Skate3Recomp",
+      "appIconUrl": "https://raw.githubusercontent.com/DinosaurPlanetRecomp/dino-recomp/refs/heads/main/icons/64.png",
+      "category": "Recompilations"
+    },
+    {
+      "name": "Fatal Frame",
+      "repository": "Mikompilation/MikuPan",
+      "folderName": "FatalFrameMiko",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/b485dd9ed816f24bcfcc15f8b9cb9075.png",
+      "category": "Recompilations"
+    },
+    {
+      "name": "LoD: Severed Chains",
+      "repository": "Legend-of-Dragoon-Modding/Severed-Chains",
+      "folderName": "Legend-of-Dragoon-Modding.Severed-Chains",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/ddc2c94d27d2c6d46b33acf21b21a641.png",
+      "category": "Recompilations"
+    }
+  ],
+
+  "Gamecube Recompilations": [
+	{
+      "name": "Mario Party 4",
+      "repository": "mariopartyrd/marioparty4",
+      "folderName": "marioparty4",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/3e60e09c222f206c725385f53d7e567c.png",
+      "category": "Recompilations"
+    },
+      {
+      "name": "Animal Crossing",
+      "repository": "flyngmt/ACGC-PC-Port",
+      "folderName": "flyngmt.acgc_pcport",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/63d9e8a72c3a2f029c635f9b194839d2.png",
+      "category": "Recompilations"
+      },
+    {
+      "name": "Zelda: TP (Dusklight)",
+      "repository": "TwilitRealm/dusklight",
+      "folderName": "TwilitRealm.dusklight",
+      "appIconUrl": "https://cdn2.steamgriddb.com/grid/c1cc4766f548f241f50ead6c4350a95d.png",
+      "category": "Recompilations"
+    }
+  ],
   "N64 Recompilations": [
+    {
+      "name": "Perfect Dark",
+      "repository": "fgsfdsfgs/perfect_dark",
+      "folderName": "fgsfdsfgs.perfect_dark",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/64314c17210c549a854f1f1c7adce8b6/32/256x256.png",
+      "category": "Recompilations"
+    },
+    {
+      "name": "Super Smash Bros (BattleShip)",
+      "repository": "JRickey/BattleShip",
+      "folderName": "super_smash_bros_64_BattleShip",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/9b698eb3105bd82528f23d0c92dedfc0.png",
+      "category": "Recompilations"
+    },
+    {
+      "name": "Castlevania: Legacy of Darkness",
+      "repository": "fliperama86/cvlod_recomp",
+      "folderName": "cvlod_recomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/419d2439f2540b883c361010cc19e4b8.png",
+      "category": "Recompilations"
+    },
+    {
+      "name": "Paper Mario",
+      "repository": "SMCGames/Paper-Mario-ReCut",
+      "folderName": "PaperMarioRecut",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/877a9ba7a98f75b90a9d49f53f15a858.ico",
+      "category": "Recompilations"
+    },
     {
       "name": "Zelda 64",
       "repository": "Zelda64Recomp/Zelda64Recomp",
@@ -40,6 +159,13 @@
       "repository": "sonicdcer/DNZHRecomp",
       "folderName": "DNZHRecompiled",
       "gameIconUrl": "https://raw.githubusercontent.com/sonicdcer/DNZHRecomp/refs/heads/main/icons/512.png",
+      "category": "Recompilations"
+    },
+    {
+      "name": "Pokemon Stadium",
+      "repository": "mstan/PokemonStadiumRecomp",
+      "folderName": "PokemonStadiumRecomp",
+      "gameIconUrl": "https://cdn2.steamgriddb.com/icon/ae4b60a20b0fe8582450c458ed35a28b.ico",
       "category": "Recompilations"
     },
     {
@@ -90,6 +216,20 @@
       "folderName": "BMHeroRecompiled",
       "appIconUrl": "https://raw.githubusercontent.com/RevoSucks/BMHeroRecomp/refs/heads/master/icons/app.png",
       "category": "Recompilations"
+    },
+    {
+      "name": "Infinite Mario 64",
+      "repository": "Brawmario/infinite-mario-64-ever",
+      "folderName": "Brawmario.infinite-mario-64-ever",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/9b1347ebd516dd05210fcc9e8291b9d1.png",
+      "category": "Recompilations"
+    },
+    {
+      "name": "SM64 CoopDX",
+      "repository": "coop-deluxe/sm64coopdx",
+      "folderName": "coop-deluxe.sm64coopdx",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/e3dd863ef4277e82f712a5bd8fefe7d7.png",
+      "category": "Recompilations"
     }
   ],
 
@@ -129,5 +269,88 @@
       "gameIconUrl": "https://raw.githubusercontent.com/HarbourMasters/Ghostship/refs/heads/develop/nx-logo.jpg",
       "category": "HarborMasters"
     }
-  ]
+  ],
+
+  "NES/SNES/GBA Recompilations": [
+    {
+      "name": "Super Mario Bros. Remastered",
+      "repository": "JHDev2006/Super-Mario-Bros.-Remastered-Public",
+      "folderName": "JHDev2006.SuperMarioBrosRemastered",
+      "appIconUrl": "https://raw.githubusercontent.com/JHDev2006/Super-Mario-Bros.-Remastered-Public/refs/heads/main/icon.png",
+      "category": "Recompilations"
+    },
+    {
+      "name": "Super Metroid Launcher",
+      "repository": "RadzPrower/Super-Metroid-Launcher",
+      "folderName": "RadzPrower.Super-Metroid-Launcher",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/26e3dcb90aa10011db5b660c463f325f/32/256x256.png",
+      "category": "Recompilations"
+    },
+    {
+      "name": "Zelda: ALttP (Zelda 3 Launcher)",
+      "repository": "RadzPrower/Zelda-3-Launcher",
+      "folderName": "RadzPrower.Zelda-3-Launcher",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/1b39a10cc39ee53e5b2fdc1eda1eb5da.png",
+      "category": "Recompilations"
+    },
+    {
+      "name": "Super Mario World",
+      "repository": "snesrev/smw",
+      "folderName": "snesrev.smw",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/5ba01c0e82cd96577309302faf900a0d/32/1024x1024.png",
+      "category": "Recompilations"
+    },
+	{
+      "name": "Link\u0027s Awakening DX HD",
+      "repository": "BigheadSMZ/Zelda-LA-DX-HD-Updated",
+      "folderName": "BigheadSMZ.ZeldaLAHD",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/17ba4b0f5b8bff185d7359c88548f8b7/32/256x256.png",
+      "category": "Recompilations"
+    },
+    {
+      "name": "Zelda: Minish Cap",
+      "repository": "StonedModder/auto-tmc",
+      "folderName": "AutoTMC_minish_cap",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/c19af480c40e343bbac3e2c01967b09f.png",
+      "category": "Recompilations"
+    }
+	]
+  "Various Recompilations": [
+
+    {
+      "name": "Space Station Silicon Valley",
+      "repository": "Cellenseres/SSSV_Recomp",
+      "folderName": "SSSVRecompiled",
+      "appIconUrl": "https://raw.githubusercontent.com/Cellenseres/SSSV_Recomp/refs/heads/main/icons/512.png",
+      "category": "Recompilations"
+    },
+    {
+      "name": "WipeOut Phantom Edition",
+      "repository": "wipeout-phantom-edition/wipeout-phantom-edition",
+      "folderName": "WipeOut Phantom Edition",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/9fcb5252180dc29b22976c5c63b322e7.png",
+      "category": "Recompilations"
+    },
+    {
+      "name": "REDRIVER 2",
+      "repository": "OpenDriver2/REDRIVER2",
+      "folderName": "OpenDriver2.REDRIVER2",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/ca0739bf1344242a820fe79d0ac17d65.png",
+      "category": "Recompilations"
+    },
+    {
+      "name": "Sonic Forever",
+      "repository": "ElspethThePict/S1Forever",
+      "folderName": "ElspethThePict.S1Forever",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/7884a9652e94555c70f96b6be63be216.png",
+      "category": "Recompilations"
+    },
+    {
+      "name": "Sonic 3 AIR",
+      "repository": "Eukaryot/sonic3air",
+      "folderName": "Eukaryot.sonic3air",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/a70dab11c90d06b809d0be230731762a/32/256x256.png",
+      "category": "Recompilations"
+    }
+	]
 }
