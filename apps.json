@@ -326,6 +326,12 @@
       "repository": "open-goal/jak-project",
       "folderName": "open-goal.jak-project",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/48ecd78598456095d654c9196f973b00.png"
+    },
+    {
+      "name": "Azel: Reverse engineering of Panzer Dragoon Saga",
+      "repository": "yaz0r/Azel",
+      "folderName": "yaz0r.Azel",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/eba4b31af98c58b7cdb9cc785adc7627.png"
     }
   ]
 }
