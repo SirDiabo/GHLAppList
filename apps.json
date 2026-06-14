@@ -320,6 +320,12 @@
       "repository": "Eukaryot/sonic3air",
       "folderName": "Eukaryot.sonic3air",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/a70dab11c90d06b809d0be230731762a/32/256x256.png"
+    },
+    {
+      "name": "OpenGOAL (Jak & Daxter)",
+      "repository": "open-goal/jak-project",
+      "folderName": "open-goal.jak-project",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/48ecd78598456095d654c9196f973b00.png"
     }
   ]
 }
