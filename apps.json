@@ -197,7 +197,40 @@
     }
   ],
 
-  "AI Ports": [
+  "Harbor Masters N64 Ports": [
+    {
+      "name": "Star Fox 64 (Starship)",
+      "repository": "harbourmasters/starship",
+      "folderName": "harbourmasters.starship",
+      "gameIconUrl": "https://cdn2.steamgriddb.com/icon/dc2ee2a5add7154447a4644326e33386/32/256x256.png"
+    },
+    {
+      "name": "Zelda: OoT (Ship of Harkinian)",
+      "repository": "harbourmasters/shipwright",
+      "folderName": "harbourmasters.shipofharkinian",
+      "gameIconUrl": "https://cdn2.steamgriddb.com/icon/d1cd0a8c9b28f58703a097d5a25534e3/32/256x256.png"
+    },
+    {
+      "name": "Mario Kart 64 (SpaghettiKart)",
+      "repository": "harbourmasters/spaghettikart",
+      "folderName": "harbourmasters.spaghettikkart",
+      "gameIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/5e5e0bd5ad7c2ca72b0c5ff8b6debbba.png"
+    },
+    {
+      "name": "Zelda: MM (2 Ship 2 Harkinian)",
+      "repository": "harbourmasters/2ship2harkinian",
+      "folderName": "harbourmasters.2ship2harkinian",
+      "gameIconUrl": "https://cdn2.steamgriddb.com/icon/6c7dbdd98cd70f67f102524761f3b4d2/24/256x256.png"
+    },
+    {
+      "name": "Super Mario 64 (Ghostship)",
+      "repository": "harbourmasters/ghostship",
+      "folderName": "harbourmasters.ghostship",
+      "gameIconUrl": "https://raw.githubusercontent.com/HarbourMasters/Ghostship/refs/heads/develop/nx-logo.jpg"
+    }
+  ],
+
+  "AI N64 Ports": [
     {
       "name": "Super Smash Bros (BattleShip)",
       "repository": "JRickey/BattleShip",
@@ -221,39 +254,6 @@
       "repository": "Cellenseres/SSSV_Recomp",
       "folderName": "SSSVRecompiled",
       "appIconUrl": "https://raw.githubusercontent.com/Cellenseres/SSSV_Recomp/refs/heads/main/icons/512.png"
-    }
-  ],
-
-  "Harbor Masters Ports": [
-    {
-      "name": "Star Fox 64 (Starship)",
-      "repository": "harbourmasters/starship",
-      "folderName": "harbourmasters.starship",
-      "gameIconUrl": "https://cdn2.steamgriddb.com/icon/dc2ee2a5add7154447a4644326e33386/32/256x256.png"
-    },
-    {
-      "name": "Zelda OoT (Ship of Harkinian)",
-      "repository": "harbourmasters/shipwright",
-      "folderName": "harbourmasters.shipofharkinian",
-      "gameIconUrl": "https://cdn2.steamgriddb.com/icon/d1cd0a8c9b28f58703a097d5a25534e3/32/256x256.png"
-    },
-    {
-      "name": "Mario Kart 64 (SpaghettiKart)",
-      "repository": "harbourmasters/spaghettikart",
-      "folderName": "harbourmasters.spaghettikkart",
-      "gameIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/5e5e0bd5ad7c2ca72b0c5ff8b6debbba.png"
-    },
-    {
-      "name": "Zelda MM (2 Ship 2 Harkinian)",
-      "repository": "harbourmasters/2ship2harkinian",
-      "folderName": "harbourmasters.2ship2harkinian",
-      "gameIconUrl": "https://cdn2.steamgriddb.com/icon/6c7dbdd98cd70f67f102524761f3b4d2/24/256x256.png"
-    },
-    {
-      "name": "Super Mario 64 (Ghostship)",
-      "repository": "harbourmasters/ghostship",
-      "folderName": "harbourmasters.ghostship",
-      "gameIconUrl": "https://raw.githubusercontent.com/HarbourMasters/Ghostship/refs/heads/develop/nx-logo.jpg"
     }
   ],
 
