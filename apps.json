@@ -345,5 +345,38 @@
       "folderName": "AliveTeam.alive_reversing",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/b9b5c1aceaf0491b0c041bca34418f07.png"
     }
+  ],
+
+  "Emulators": [
+    {
+      "name": "Gopher 64 (N64)",
+      "repository": "gopher64/gopher64",
+      "folderName": "gopher64",
+      "appIconUrl": "https://github.com/gopher64/gopher64/blob/main/data/icon/gopher64.png?raw=true"
+    },
+    {
+      "name": "Rosalie's Mupen GUI (N64)",
+      "repository": "Rosalie241/RMG",
+      "folderName": "RosalieMupenGUI",
+      "appIconUrl": "https://raw.githubusercontent.com/Rosalie241/RMG/453f6639734537908c4c2ca35244255bc5424e3d/Artwork/RMG.svg"
+    },
+    {
+      "name": "Citron Neo (Switch)",
+      "repository": "citron-neo/emulator",
+      "folderName": "citron_neo",
+      "appIconUrl": "https://github.com/citron-neo/emulator/blob/main/dist/qt_themes/default/icons/256x256/citron.png?raw=true"
+    },
+    {
+      "name": "duckstation (PS1)",
+      "repository": "stenzek/duckstation",
+      "folderName": "duckstation",
+      "appIconUrl": "https://github.com/stenzek/duckstation/blob/master/data/resources/images/duck.png?raw=true"
+    },
+    {
+      "name": "PCSX2 (PS2)",
+      "repository": "PCSX2/pcsx2",
+      "folderName": "pcsx2",
+      "appIconUrl": "https://github.com/PCSX2/pcsx2/blob/master/bin/resources/icons/AppIconLarge.png?raw=true"
+    }
   ]
 }
