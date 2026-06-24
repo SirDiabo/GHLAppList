@@ -66,7 +66,7 @@
     {
       "name": "CTR (Crash Team Racing)",
       "repository": "CTR-tools/ctr-native",
-      "folderName": "CTR-tools/ctr-native",
+      "folderName": "CTR-tools.ctr-native",
       "appIconUrl": "https://cdn2.steamgriddb.com/thumb/b08236b8ad7335f1f7983a1477f36efe.jpg"
     }
   ],
@@ -309,7 +309,7 @@
     {
       "name": "MegamanX",
       "repository": "mstan/MegaManXSNESRecomp",
-      "folderName": "mstan/MegaManXSNESRecomp",
+      "folderName": "mstan.MegaManXSNESRecomp",
       "appIconUrl": "https://cdn2.steamgriddb.com/logo_thumb/2ae549cf604c064a34019c7bd4a81e24.png"
     }
   ],
