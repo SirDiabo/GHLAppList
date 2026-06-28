@@ -340,16 +340,10 @@
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/eba4b31af98c58b7cdb9cc785adc7627.png"
     },
     {
-      "name": "WipeOut Phantom Edition",
-      "repository": "wipeout-phantom-edition/wipeout-phantom-edition",
-      "folderName": "WipeOutPhantomEdition",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/9fcb5252180dc29b22976c5c63b322e7.png"
-    },
-	  {
-      "name": "Unleashed Recompiled (Sonic Unleashed)",
-      "repository": "hedge-dev/UnleashedRecomp",
-      "folderName": "UnleashedRecompiled",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon/63a99723ebb3af94d52b474c3b21dbe1/24/512x512.png"
+      "name": "OpenGOAL (Jak & Daxter Trilogy)",
+      "repository": "open-goal/jak-project",
+      "folderName": "OpenGOAL",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/48ecd78598456095d654c9196f973b00.png"
     },
     {
       "name": "REDRIVER 2 (Reverse-Engineered Driver 2)",
@@ -358,16 +352,22 @@
       "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/ca0739bf1344242a820fe79d0ac17d65.png"
     },
     {
-      "name": "OpenGOAL (Jak & Daxter Trilogy)",
-      "repository": "open-goal/jak-project",
-      "folderName": "OpenGOAL",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon/48ecd78598456095d654c9196f973b00.png"
-    },
-    {
       "name": "R.E.L.I.V.E. (Oddworld: Abe's Exoddus/Oddysee)",
       "repository": "AliveTeam/alive_reversing",
       "folderName": "RELIVE",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/b9b5c1aceaf0491b0c041bca34418f07.png"
+    },
+	{
+      "name": "Unleashed Recompiled (Sonic Unleashed)",
+      "repository": "hedge-dev/UnleashedRecomp",
+      "folderName": "UnleashedRecompiled",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/63a99723ebb3af94d52b474c3b21dbe1/24/512x512.png"
+    },
+    {
+      "name": "WipeOut Phantom Edition",
+      "repository": "wipeout-phantom-edition/wipeout-phantom-edition",
+      "folderName": "WipeOutPhantomEdition",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/9fcb5252180dc29b22976c5c63b322e7.png"
     }
   ],
 
