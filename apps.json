@@ -6,13 +6,13 @@
       "folderName": "Dusklight",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/3eea4f9e7acb84e451bcfdfac2050fd7/32/256x256.png"
     },
-	  {
+	{
       "name": "Mario Party 4",
       "repository": "mariopartyrd/marioparty4",
       "folderName": "MarioParty4",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/3e60e09c222f206c725385f53d7e567c.png"
     },
-	  {
+	{
       "name": "Project Reignition (Sonic and the Secret Rings, Fan Remake)",
       "repository": "kumapauz/project-reignition",
       "folderName": "ProjectReignition",
@@ -102,7 +102,7 @@
       "folderName": "Quest64Recompiled",
       "appIconUrl": "https://raw.githubusercontent.com/Rainchus/Quest64-Recomp/refs/heads/main/icons/512.png"
     },
-	  {
+	{
       "name": "Snowboard Kids 2: Recompiled",
       "repository": "cdlewis/snowboardkids2-recomp",
       "folderName": "SnowboardKids2Recompiled",
@@ -222,7 +222,7 @@
       "folderName": "SeveredChains",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/ddc2c94d27d2c6d46b33acf21b21a641.png"
     },
-	  {
+	{
       "name": "Silent Hill Decompilation Project",
       "repository": "SlickAmogus/silent-hill-decomp",
       "folderName": "SilentHillDecomp",
@@ -237,7 +237,7 @@
       "folderName": "AutoTMC",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/c19af480c40e343bbac3e2c01967b09f.png"
     },
-	  {
+	{
         "name": "Link's Awakening DX HD",
       "repository": "BigheadSMZ/Zelda-LA-DX-HD-Updated",
       "folderName": "LinksAwakeningDXHD",
@@ -357,7 +357,7 @@
       "folderName": "RELIVE",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/b9b5c1aceaf0491b0c041bca34418f07.png"
     },
-	  {
+	{
       "name": "Unleashed Recompiled (Sonic Unleashed)",
       "repository": "hedge-dev/UnleashedRecomp",
       "folderName": "UnleashedRecompiled",
@@ -372,7 +372,7 @@
   ],
 
   "System Emulation": [
-	  {
+	{
       "name": "RetroArch",
       "repository": "libretro/RetroArch",
       "folderName": "RetroArch",
@@ -432,7 +432,7 @@
       "folderName": "Flycast",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/abebb7c39f4b5e46bbcfab2b565ef32b/32/256x256.png"
     },
-	  {
+	{
       "name": "Duckstation (PS1)",
       "repository": "stenzek/duckstation",
       "folderName": "Duckstation",
@@ -474,7 +474,7 @@
       "folderName": "xemu",
       "appIconUrl": "https://github.com/xemu-project/xemu/blob/master/ui/icons/xemu_64x64.png?raw=true"
     },
-	  {
+	{
       "name": "Xenia Manager (Xbox 360)",
       "repository": "xenia-manager/xenia-manager",
       "folderName": "XeniaManager",
