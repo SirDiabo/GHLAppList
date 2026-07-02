@@ -307,6 +307,12 @@
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/c967fb654df41177901d1f5f135bf9e6.png"
     },
 	{
+      "name": "NocturneRecomp (Castlevania: Symphony of the Night)",
+      "repository": "birabittoh/NocturneRecomp",
+      "folderName": "NocturneRecomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/7115d15060517a9146826ff3aae574c4.jpg"
+    },
+	{
       "name": "re:Blue (Blue Dragon Recompiled)",
       "repository": "zolaware/reblue",
       "folderName": "reBlue",
