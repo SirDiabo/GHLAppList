@@ -6,13 +6,13 @@
       "folderName": "Dusklight",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/3eea4f9e7acb84e451bcfdfac2050fd7/32/256x256.png"
     },
-	{
+	  {
       "name": "Mario Party 4",
       "repository": "mariopartyrd/marioparty4",
       "folderName": "MarioParty4",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/3e60e09c222f206c725385f53d7e567c.png"
     },
-	{
+	  {
       "name": "Project Reignition (Sonic and the Secret Rings, Fan Remake)",
       "repository": "kumapauz/project-reignition",
       "folderName": "ProjectReignition",
@@ -102,7 +102,7 @@
       "folderName": "Quest64Recompiled",
       "appIconUrl": "https://raw.githubusercontent.com/Rainchus/Quest64-Recomp/refs/heads/main/icons/512.png"
     },
-	{
+	  {
       "name": "Snowboard Kids 2: Recompiled",
       "repository": "cdlewis/snowboardkids2-recomp",
       "folderName": "SnowboardKids2Recompiled",
@@ -120,37 +120,37 @@
       "folderName": "Zelda64Recompiled",
       "appIconUrl": "https://raw.githubusercontent.com/Zelda64Recomp/Zelda64Recomp/refs/heads/dev/icons/512.png"
     },
-	{
+	  {
       "name": "2 Ship 2 Harkinian (Zelda: Majora's Mask)",
       "repository": "harbourmasters/2ship2harkinian",
       "folderName": "2Ship2Harkinian",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/6c7dbdd98cd70f67f102524761f3b4d2/24/256x256.png"
     },
-	{
+	  {
       "name": "Ghostship (Super Mario 64)",
       "repository": "harbourmasters/ghostship",
       "folderName": "Ghostship",
       "appIconUrl": "https://raw.githubusercontent.com/HarbourMasters/Ghostship/refs/heads/develop/nx-logo.jpg"
     },
-	{
+	  {
       "name": "Ship of Harkinian (Zelda: Ocarina of Time)",
       "repository": "harbourmasters/shipwright",
       "folderName": "ShipofHarkinian",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/d1cd0a8c9b28f58703a097d5a25534e3/32/256x256.png"
     },
-	{
+	  {
       "name": "SpaghettiKart (Mario Kart 64)",
       "repository": "harbourmasters/spaghettikart",
       "folderName": "SpaghettiKart",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/5e5e0bd5ad7c2ca72b0c5ff8b6debbba.png"
     },
-	{
+	  {
       "name": "Starship (Star Fox 64)",
       "repository": "harbourmasters/starship",
       "folderName": "Starship",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/dc2ee2a5add7154447a4644326e33386/32/256x256.png"
     },
-	{
+	  {
       "name": "Infinite Mario 64 Ever",
       "repository": "Brawmario/infinite-mario-64-ever",
       "folderName": "InfiniteMario64Ever",
@@ -222,7 +222,7 @@
       "folderName": "SeveredChains",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/ddc2c94d27d2c6d46b33acf21b21a641.png"
     },
-	{
+	  {
       "name": "Silent Hill Decompilation Project",
       "repository": "SlickAmogus/silent-hill-decomp",
       "folderName": "SilentHillDecomp",
@@ -237,7 +237,7 @@
       "folderName": "AutoTMC",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/c19af480c40e343bbac3e2c01967b09f.png"
     },
-	{
+	  {
         "name": "Link's Awakening DX HD",
       "repository": "BigheadSMZ/Zelda-LA-DX-HD-Updated",
       "folderName": "LinksAwakeningDXHD",
@@ -279,7 +279,7 @@
       "folderName": "SuperMetroidLauncher",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/26e3dcb90aa10011db5b660c463f325f/32/256x256.png"
     },
-	{
+	  {
       "name": "Zelda 3 Launcher (Zelda: A Link To The Past)",
       "repository": "RadzPrower/Zelda-3-Launcher",
       "folderName": "Zelda3Launcher",
@@ -288,43 +288,43 @@
   ],
 
   "Xbox 360 (Rexglue)": [
-	{
+	  {
       "name": "Banjo-Kazooie: Nuts & Bolts Re-NuT",
       "repository": "masterspike52/reNut",
       "folderName": "reNut",
       "appIconUrl": "https://raw.githubusercontent.com/masterspike52/reNut/refs/heads/main/icon/app.ico"
     },
-	{
+	  {
       "name": "Dragon Ball Z Budokai HD Recompiled",
       "repository": "WistfulHopes/DBZ1",
       "folderName": "DragonBallZBudokaiHDRecompiled",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/61501c1f651da2774f8bb6bbec365d84.png"
     },
-	{
+	  {
       "name": "GoldenEye 007 Recompiled",
       "repository": "SunJaycy/GoldenEye-Recomp",
       "folderName": "GoldenEyeRecomp",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/c967fb654df41177901d1f5f135bf9e6.png"
     },
-	{
+	  {
       "name": "re:Blue (Blue Dragon Recompiled)",
       "repository": "zolaware/reblue",
       "folderName": "reBlue",
       "appIconUrl": "https://cdn2.steamgriddb.com/grid/56ece4baf45c8009e2370d804ca56fb8.jpg"
     },
-	{
+	  {
       "name": "Sega Superstars Tennis ReMatch",
       "repository": "m1ndcrap/Sega-Superstars-Tennis-ReMatch",
       "folderName": "SegaSuperstarsTennisReMatch",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/ef5495c586679c353c85c0595e23239b.png"
     },
-	{
+	  {
       "name": "Skate: Recompiled (Skate 3)",
       "repository": "portingpete/skate3-recomp",
       "folderName": "SkateRecompiled",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/dcf0c06522a3c86c78bea8dc47433933.png"
     },
-	{
+	  {
       "name": "Viva Pinata: Trouble In Paradise Recompiled",
       "repository": "SolarCookies/TiP-Recomp",
       "folderName": "VivaPinataTiPRecompiled",
@@ -345,7 +345,7 @@
       "folderName": "OpenGOAL",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/48ecd78598456095d654c9196f973b00.png"
     },
-	{
+	  {
       "name": "REDRIVER 2 (Driver 2)",
       "repository": "OpenDriver2/REDRIVER2",
       "folderName": "REDRIVER2",
@@ -357,7 +357,7 @@
       "folderName": "RELIVE",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/b9b5c1aceaf0491b0c041bca34418f07.png"
     },
-	{
+	  {
       "name": "Unleashed Recompiled (Sonic Unleashed)",
       "repository": "hedge-dev/UnleashedRecomp",
       "folderName": "UnleashedRecompiled",
@@ -372,7 +372,7 @@
   ],
 
   "System Emulation": [
-	{
+	  {
       "name": "RetroArch",
       "repository": "libretro/RetroArch",
       "folderName": "RetroArch",
@@ -402,7 +402,7 @@
       "folderName": "MelonDS",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/9c156653d889d37811915236feed8660/32/256x256.png"
     },
-	{
+	  {
       "name": "mGBA (GBA)",
       "repository": "mgba-emu/mgba",
       "folderName": "mGBA",
@@ -420,7 +420,7 @@
       "folderName": "SkyEmu",
       "appIconUrl": "https://github.com/skylersaleh/SkyEmu/blob/dev/src/resources/icons/icon.png?raw=true"
     },
-	{
+	  {
       "name": "snes9x (SNES)",
       "repository": "snes9xgit/snes9x",
       "folderName": "snes9x",
@@ -432,7 +432,7 @@
       "folderName": "Flycast",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/abebb7c39f4b5e46bbcfab2b565ef32b/32/256x256.png"
     },
-	{
+	  {
       "name": "Duckstation (PS1)",
       "repository": "stenzek/duckstation",
       "folderName": "Duckstation",
@@ -474,7 +474,7 @@
       "folderName": "xemu",
       "appIconUrl": "https://github.com/xemu-project/xemu/blob/master/ui/icons/xemu_64x64.png?raw=true"
     },
-	{
+	  {
       "name": "Xenia Manager (Xbox 360)",
       "repository": "xenia-manager/xenia-manager",
       "folderName": "XeniaManager",
