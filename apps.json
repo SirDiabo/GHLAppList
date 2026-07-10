@@ -372,12 +372,6 @@
   ],
 
   "System Emulation": [
-	  {
-      "name": "RetroArch",
-      "repository": "libretro/RetroArch",
-      "folderName": "RetroArch",
-      "appIconUrl": "https://github.com/libretro/RetroArch/raw/refs/heads/master/media/retroarch.ico"
-    },
     {
       "name": "Cemu (Wii U)",
       "repository": "cemu-project/cemu",
