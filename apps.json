@@ -200,6 +200,12 @@
       "repository": "Cellenseres/SSSV_Recomp",
       "folderName": "SSSVRecompiled",
       "appIconUrl": "https://raw.githubusercontent.com/Cellenseres/SSSV_Recomp/refs/heads/main/icons/512.png"
+    },
+    {
+      "name": "Trouble Makers (Mischief Makers)",
+      "repository": "ThiagoLira/trouble-makers-pc-recomp",
+      "folderName": "trouble-makers-recomp",
+      "appIconUrl": "https://github.com/ThiagoLira/trouble-makers-pc-recomp/blob/main/icons/512.png?raw=true"
     }
   ],
 
