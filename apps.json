@@ -270,6 +270,12 @@
       "folderName": "AutoTMC",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/c19af480c40e343bbac3e2c01967b09f.png"
     },
+    {
+      "name": "Gen1Recomp (Pokemon Red)",
+      "repository": "bryanthaboi/pokemon-gen1-recomp-project",
+      "folderName": "Gen1Recomp",
+      "appIconUrl": "https://raw.githubusercontent.com/bryanthaboi/pokemon-gen1-recomp-project/main/assets/logo/gen1recomp_cover.png"
+    },
 	  {
         "name": "Link's Awakening DX HD",
       "repository": "BigheadSMZ/Zelda-LA-DX-HD-Updated",
