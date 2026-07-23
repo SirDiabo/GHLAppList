@@ -233,6 +233,33 @@
       "repository": "SlickAmogus/silent-hill-decomp",
       "folderName": "SilentHillDecomp",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/8847f8243bea41c5145872e904631d71.png"
+    },
+	  {
+      "name": "Ape Escape Recomp",
+      "repository": "mstan/ApeEscapeRecomp",
+      "folderName": "ApeEscapeRecomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/d28a3097fa7cf63ad01c4f328314e2f2.png"
+    }
+  ],
+
+ "PlayStation Recompilations": [
+	{
+      "name": "Ape Escape Recomp",
+      "repository": "mstan/ApeEscapeRecomp",
+      "folderName": "ApeEscapeRecomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/d28a3097fa7cf63ad01c4f328314e2f2.png"
+    },
+	{
+      "name": "Mega Man X6 Recomp",
+      "repository": "mstan/MegaManX6Recomp",
+      "folderName": "MegaManX6Recomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/7558a03211f17086e4b8d0fbd35e9a6a.png"
+    },
+	{
+      "name": "Tomba! Recomp",
+      "repository": "mstan/TombaRecomp",
+      "folderName": "TombaRecomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/6f64ba651f05e2714936e631ad56c5d4/32/512x512.png"
     }
   ],
 
