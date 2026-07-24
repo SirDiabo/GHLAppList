@@ -233,16 +233,10 @@
       "repository": "SlickAmogus/silent-hill-decomp",
       "folderName": "SilentHillDecomp",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/8847f8243bea41c5145872e904631d71.png"
-    },
-	  {
-      "name": "Ape Escape Recomp",
-      "repository": "mstan/ApeEscapeRecomp",
-      "folderName": "ApeEscapeRecomp",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon/d28a3097fa7cf63ad01c4f328314e2f2.png"
     }
   ],
 
- "PlayStation Recompilations": [
+ "AI PlayStation Recompilations": [
 	{
       "name": "Ape Escape Recomp",
       "repository": "mstan/ApeEscapeRecomp",
