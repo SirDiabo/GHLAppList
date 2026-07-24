@@ -211,10 +211,22 @@
 
  "PlayStation Ports": [
     {
+      "name": "ApeEscapeRecomp",
+      "repository": "mstan/ApeEscapeRecomp",
+      "folderName": "ApeEscapeRecomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/498726f0ce401dec046932a7bc75c790.jpg"
+    }, 
+    {
       "name": "CTR Native (Crash Team Racing)",
       "repository": "CTR-tools/ctr-native",
       "folderName": "CTRNative",
       "appIconUrl": "https://cdn2.steamgriddb.com/thumb/b08236b8ad7335f1f7983a1477f36efe.jpg"
+    },
+    {
+      "name": "MegaManX4Recomp",
+      "repository": "mstan/MegaManX4Recomp",
+      "folderName": "MegaManX4Recomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/3288aad7618af622d46172801c6c3422.jpg"
     },
     {
       "name": "MikuPan (Fatal Frame)",
@@ -228,11 +240,17 @@
       "folderName": "SeveredChains",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/ddc2c94d27d2c6d46b33acf21b21a641.png"
     },
-	  {
+    {
       "name": "Silent Hill Decompilation Project",
       "repository": "SlickAmogus/silent-hill-decomp",
       "folderName": "SilentHillDecomp",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/8847f8243bea41c5145872e904631d71.png"
+    },
+    {
+      "name": "TombaRecomp",
+      "repository": "mstan/TombaRecomp",
+      "folderName": "TombaRecomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/d2266cbbc297cb8f4e96fb08456ac626.jpg"
     }
   ],
 
@@ -289,6 +307,12 @@
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/5ba01c0e82cd96577309302faf900a0d/32/1024x1024.png"
     },
     {
+      "name": "SuperMarioWorldRecomp",
+      "repository": "mstan/SuperMarioWorldRecomp",
+      "folderName": "SuperMarioWorldRecomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/9d6226a82f8adfd425583fa35847870d.jpg"
+    },    
+    {
       "name": "Sonic 1 Forever",
       "repository": "ElspethThePict/S1Forever",
       "folderName": "Sonic1Forever",
@@ -339,7 +363,13 @@
       "folderName": "GoldenEyeRecomp",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/c967fb654df41177901d1f5f135bf9e6.png"
     },
-	  {
+    {
+      "name": "NocturneRecomp (Castlevania: Symphony of the Night)",
+      "repository": "birabittoh/NocturneRecomp",
+      "folderName": "NocturneRecomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/7115d15060517a9146826ff3aae574c4.jpg"
+    },
+    {
       "name": "re:Blue (Blue Dragon Recompiled)",
       "repository": "zolaware/reblue",
       "folderName": "reBlue",
