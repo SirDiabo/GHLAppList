@@ -7,6 +7,18 @@
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/3eea4f9e7acb84e451bcfdfac2050fd7/32/256x256.png"
     },
 	{
+      "name": "melee-pc (Super Smash Bros Melee)",
+      "repository": "999sian/melee-pc",
+      "folderName": "melee-pc",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/eefc9e10ebdc4a2333b42b2dbb8f27b6.png"
+    },
+	{
+      "name": "Strikers (Super Mario Strikers)",
+      "repository": "new-coke/strikers",
+      "folderName": "Strikers",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/ea86ccbb57d32f5889139224411436df.png"
+    },
+	{
       "name": "Kirby Wii Recomp",
       "repository": "ExpansionPak/ModernGekko",
       "folderName": "KirbyWiiRecomp",
@@ -349,6 +361,12 @@
       "appIconUrl": "https://github.com/Matteo842/CrashBandicoot-Launcher/blob/main/icon.png?raw=true"
     },
 	{
+      "name": "Crash Bandicoot 2 Recomp",
+      "repository": "Zumbo06/Crash2Recomp",
+      "folderName": "CrashBandicoot2",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/0432a37cefd696a70d9db9ec0c17d31a.png"
+    },
+	{
       "name": "Einhander Recompiled",
       "repository": "strider973/Einhander-Recompiled",
       "folderName": "Einhander-Recompiled",
@@ -450,6 +468,12 @@
       "repository": "mstan/MegaManXSNESRecomp",
       "folderName": "MegaManXSNESRecomp",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/b946c734affd9d4de72dd92957bfc9f8.png"
+    },
+	{
+      "name": "MegamanX2 Recomp",
+      "repository": "mstan/MegaManX2Recomp",
+      "folderName": "MegaManX2Recomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/fe5e746f078fb13928d9558651397be2.png"
     },
     {
       "name": "smw (Super Mario World)",
