@@ -208,6 +208,12 @@
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/e3dd863ef4277e82f712a5bd8fefe7d7.png"
     },
     {
+      "name": "Snowboard Kids: Recompiled",
+      "repository": "cdlewis/snowboardkids-recomp",
+      "folderName": "SnowboardKidsRecompiled",
+      "appIconUrl": "https://github.com/cdlewis/snowboardkids-recomp/blob/main/icons/512.png?raw=true"
+    },
+    {
       "name": "Snowboard Kids 2: Recompiled",
       "repository": "cdlewis/snowboardkids2-recomp",
       "folderName": "SnowboardKids2Recompiled",
