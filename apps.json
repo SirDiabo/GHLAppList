@@ -537,6 +537,12 @@
       "repository": "mstan/MarioKartSuperCircuitRecomp",
       "folderName": "MarioKartSuperCircuitRecomp",
       "appIconUrl": "https://cdn2.steamgriddb.com/thumb/cfd6c82a2b509c9fde692e0bb068f0c3.jpg"
+    },
+    {
+      "name": "Wario Land 4",
+      "repository": "BioRhythmicStudios/warioland4",
+      "folderName": "WarioLand4",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/4158345f3687fcb84c1795cbf3c2e638/32/256x256.png"
     }
   ],
 
