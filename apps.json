@@ -94,6 +94,12 @@
       "appIconUrl": "https://raw.githubusercontent.com/BanjoRecomp/BanjoRecomp/refs/heads/main/icons/app.png"
     },
     {
+      "name": "BlastCorps: Recompiled",
+      "repository": "SlaveOfIDO/blastcorps-recomp",
+      "folderName": "BlastCorps:Recompiled",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/a56b6ea9b986428c2ab2fb458f5da882/32/256x256.png"
+    },
+    {
       "name": "Bomberman 64: Recompiled",
       "repository": "RevoSucks/BM64Recomp",
       "folderName": "BM64Recompiled",
